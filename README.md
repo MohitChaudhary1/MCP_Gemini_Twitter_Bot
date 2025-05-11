@@ -25,9 +25,3 @@ An intelligent, multi-agent powered Twitter bot built using **Python**, **Google
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/MohitChaudhary1/twitter-mcp-bot.git
-cd twitter-mcp-bot
